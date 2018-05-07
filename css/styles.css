@@ -1,0 +1,128 @@
+/*  */
+/*  */
+/* Header */
+.logo {
+  width: 10%;
+}
+
+.header {
+  background: linear-gradient(coral, steelblue);
+  width: 100%;
+}
+
+.me-img {
+  margin-top: 20%;
+  box-shadow: 5px 3px 10px;
+}
+
+/*  */
+/*  */
+/* Main */
+hr {
+  width: 80%;
+}
+
+.me {
+  margin-top: 3%;
+  box-shadow: 5px 3px 25px black;
+  text-align: center;
+}
+
+.projects {
+  background-image: url(../img/neonbrand-371471-unsplash.jpg); /* Photo by NeONBRAND on Unsplash*/
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.divider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 500px;
+  border-bottom: 1px solid slategrey;
+  border-top: 1px solid black;
+}
+
+.divider-content {
+  background-color: rgba(55, 55, 58, 0.479);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 0.5em;
+  font-family: "Titillium Web", sans-serif;
+}
+
+.content {
+  margin-top: 3%;
+}
+
+.project-img:hover {
+  border: 1px solid steelblue;
+}
+
+.project-section-one {
+  padding-top: 2%;
+  padding-left: 15%;
+  text-transform: uppercase;
+  font-family: "Titillium Web", sans-serif;
+  text-shadow: 2px 2px 3px;
+}
+
+.project-section-two {
+  text-align: right;
+  padding-right: 15%;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  text-transform: uppercase;
+  font-family: "Titillium Web", sans-serif;
+  text-shadow: 2px 2px 3px;
+}
+
+.contact {
+  margin-top: 5%;
+  background-image: url(../img/nasa-53884-unsplash.jpg); /* Photo by NASA on Unsplash*/
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+}
+
+.img-desc {
+  text-align: center;
+  padding-top: 10%;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.1em;
+}
+
+.one {
+  padding-top: 5%;
+}
+
+.two {
+  padding-top: 13%;
+}
+
+/*  */
+/*  */
+/* Footer */
+.copyright {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  color: white;
+  text-shadow: 3px 5px 5px black;
+  text-align: center;
+}
+
+.fab {
+  padding-top: 5%;
+  font-size: 3em;
+}
+
+.footer-links {
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
