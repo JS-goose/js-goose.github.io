@@ -136,3 +136,10 @@ hr {
   color: white;
   text-shadow: 1px 1px 1px black;
 }
+
+@media (max-width: 1080px){
+  .copyright{
+    min-height: 200px;
+  }
+
+}
