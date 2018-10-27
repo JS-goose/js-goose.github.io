@@ -118,10 +118,7 @@ hr {
 /*  */
 /* Footer */
 .copyright {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 80px;
+  padding: 1rem 0;
   color: white;
   text-shadow: 3px 5px 5px black;
   text-align: center;
