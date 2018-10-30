@@ -24,5 +24,3 @@ A Bootstrap powered responsive web design project
   4. Fonts: Google Fonts - https://www.fonts.google.com/
   
 *Note:* This is made according to Udacity Front End Web Development Project 1 guidelines.
-
-
