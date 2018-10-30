@@ -11,6 +11,9 @@ A Bootstrap powered responsive web design project
   2. `styles.css`
   3. `img` folder containing all embedded images
 * To view this project locally, clone this repo and open the file `index.html`
+
+<br />
+<img src='https://s3.amazonaws.com/freecodecamp/news-hacktoberfest-shirt.png'>
   
 ## Features
 * This project is licensed under MIT License 2018.
@@ -21,3 +24,5 @@ A Bootstrap powered responsive web design project
   4. Fonts: Google Fonts - https://www.fonts.google.com/
   
 *Note:* This is made according to Udacity Front End Web Development Project 1 guidelines.
+
+
