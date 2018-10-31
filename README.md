@@ -17,6 +17,8 @@ A Bootstrap powered responsive web design project
   
 ## Features
 * This project is licensed under MIT License 2018.
+  https://opensource.org/licenses/MIT
+  
 * External resources used: 
   1. Bootstrap - https://getbootstrap.com/
   2. Image courtsey: Unsplash - https://www.unsplash.com/
