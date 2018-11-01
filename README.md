@@ -1,4 +1,4 @@
-# Web Development Course
+# Web Development by Jonathan Sexton
 
 by [Jonathan Sexton](https://www.jonathansexton.me/)
 
